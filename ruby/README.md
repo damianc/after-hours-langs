@@ -3,6 +3,7 @@
 * [Strings](strings.md)
 * [Files](files.md)
 * [Language elements](language-elements.md)
+* [Arrays](arrays.md)
 
 ### Sources
 
