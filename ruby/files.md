@@ -1,4 +1,4 @@
-# Ruby/files
+# Ruby / files
 
 * [Reading from a file](#reading-from-a-file)
 * [Writing to a file](#writing-to-a-file)
