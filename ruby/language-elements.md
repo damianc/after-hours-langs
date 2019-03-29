@@ -9,13 +9,13 @@
 * [Ternary operator](#ternary-operator)
 * [The `range` operators](#the-range-operators)
 * [`defined?` operator](#defined-operator)
-* [`::` operator](#operator)
+* [`::` operator](#-operator)
 * [Pattern matching operators](#pattern-matching-operators)
 * [Ranges](#ranges)
-* [Conditional constructs / control flow](#conditional-constructs-control-flow)
+* [Conditional constructs / control flow](#conditional-constructs-control--flow)
 * [Handling exceptions](#handling-exceptions)
 * [Predefined variables and constants](#predefined-variables-and-constants)
-* [Running OS commands](#runnig-os-commands)
+* [Running OS commands](#running-os-commands)
 * [Defining functions](#defining-functions)
 
 ## Comments
