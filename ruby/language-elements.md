@@ -569,7 +569,7 @@ Hello John Doe.
 
 ### Predefined constants
 
-One such os `ARGV`.
+One such os `ARGV`.  
 These include `STDIN`, `STDOUT`, `STDERR`, `RUBY_VERSION` and `ENV`.
 
 ## Running OS commands
