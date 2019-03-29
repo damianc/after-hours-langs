@@ -12,7 +12,7 @@
 * [`::` operator](#-operator)
 * [Pattern matching operators](#pattern-matching-operators)
 * [Ranges](#ranges)
-* [Conditional constructs / control flow](#conditional-constructs-control--flow)
+* [Conditional constructs / control flow](#conditional-constructs--control-flow)
 * [Handling exceptions](#handling-exceptions)
 * [Predefined variables and constants](#predefined-variables-and-constants)
 * [Running OS commands](#running-os-commands)
