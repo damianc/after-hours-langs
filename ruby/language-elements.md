@@ -123,7 +123,7 @@ a, b, c, d = 1, 2, 3
 | Operator | Description |
 |----------|-------------|
 | `&` | AND |
-| `|` | OR |
+| `\|` | OR |
 | `^` | XOR |
 | `~` | ones complement |
 | `<<` | left-shift |
