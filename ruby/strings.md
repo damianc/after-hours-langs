@@ -3,6 +3,9 @@
 * [Manipulating strings](#manipulating-strings)
 * [String formatting](#string-formatting)
 * [String interpolation](#string-interpolation)
+* [Chars sequence](#chars-sequence)
+* [Converting numbers to a string](#converting-numbers-to-a-string)
+* [puts vs. print](#puts-vs-print)
 
 ## Manipulating strings
 
@@ -34,6 +37,11 @@
 ```
 a = 'hello'
 a << ' world'
+=> "hello world"
+```
+
+```
+'hello' + ' world'
 => "hello world"
 ```
 
@@ -225,4 +233,63 @@ puts "hello #{name}"
 
 puts 'hello #{name}'
 => "hello #{name}"
+```
+### Interpolating expression
+
+```
+"The value is #{2 + 3}"
+=> "The value is 5"
+```
+
+### Interpolating code
+
+```
+"Look: #{
+	j = 0
+	for i in 1..5
+		j = j + i
+	end
+	j
+}"
+=> "Look: 15"
+```
+
+## Chars sequence
+
+```
+a = 'hello'
+a[1]
+=> "e"
+```
+
+## Converting numbers to a string
+
+```
+'12'.to_i
+=> 12
+'12'.to_f
+=> 12.0
+
+'12.5'.to_i
+=> 12
+'12.5'.to_f
+=> 12.5
+
+'abc'.to_i
+=> 0
+'abc'.to_f
+=> 0.0
+```
+
+## puts vs. print
+
+`puts` adds a newline character at the end of the string
+
+```
+puts 'a'; puts 'b'
+> a
+> b
+
+print 'a'; print 'b'
+> ab
 ```
