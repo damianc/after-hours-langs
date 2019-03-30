@@ -8,6 +8,7 @@
 * [Sets](sets.md)
 * [Blocks and iterators](blocks-and-iterators.md)
 * [input-output](input-output.md)
+* [Regular expressions](regular-expressions.md)
 
 ### Sources
 
