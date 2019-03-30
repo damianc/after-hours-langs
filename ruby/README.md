@@ -1,13 +1,13 @@
 # Ruby
 
 * [Strings](strings.md)
-* [Files](files.md)
-* [Language elements](language-elements.md)
 * [Arrays](arrays.md)
 * [Hashes](hashes.md)
 * [Sets](sets.md)
-* [Blocks and iterators](blocks-and-iterators.md)
+* [Files](files.md)
 * [input-output](input-output.md)
+* [Language elements](language-elements.md)
+* [Blocks and iterators](blocks-and-iterators.md)
 * [Regular expressions](regular-expressions.md)
 
 ### Sources
