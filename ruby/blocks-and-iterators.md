@@ -5,7 +5,7 @@
 * [Adding arguments to a block](#adding-arguments-to-a-block)
 * [Initializing and finalizing code](#initializing-and-finalizing-code)
 * [Iterating over data](#iterating-over-data)
-* [`map`/`collect`](#map-collect)
+* [`map`/`collect`](#mapcollect)
 
 ## Syntax
 
