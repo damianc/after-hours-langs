@@ -6,6 +6,7 @@
 * [Arrays](arrays.md)
 * [Hashes](hashes.md)
 * [Sets](sets.md)
+* [Blocks and iterators](blocks-and-iterators.md)
 
 ### Sources
 
